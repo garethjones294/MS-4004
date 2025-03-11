@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Module 1 - Introduction'
+    module: 'Empower your workforce using Copilot for Microsoft 365 : Executives Use Case'
+---
+
 # Lab Setup:
 
 In this module, we'll create prompts for Microsoft 365 Copilot that reference files. First, let’s upload all required files to OneDrive to ensure they're accessible throughout the lab.

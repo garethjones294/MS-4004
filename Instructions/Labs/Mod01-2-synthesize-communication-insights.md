@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Synthesize your communication insights using Microsoft 365 Business Chat'
+    module: '1'
+---
 
 # Synthesize your communication insights using Microsoft 365 Business Chat
 ---
