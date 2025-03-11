@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Summarize financial results using Microsoft 365 Copilot in Word'
+    module: 'Module 5 - Summarize financial results using Microsoft 365 Copilot in Word'
+---
+
 # Summarize financial results using Microsoft 365 Copilot in Word
 ---
 In the prior exercise, you used Microsoft 365 Copilot in Word to analyze a table of data and then create a report that summarized the information in that file. In this exercise, you open a file containing a table with five years of financial results for a company, and you ask Microsoft 365 Copilot in Word to summarize the financial results that appear in the table.

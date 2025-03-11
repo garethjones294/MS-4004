@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Brainstorm marketing campaign ideas using Microsoft 365 Copilot in Loop'
+    module: 'Module 4 - Brainstorm marketing campaign ideas using Microsoft 365 Copilot in Loop'
+---
+
 # Brainstorm marketing campaign ideas using Microsoft 365 Copilot in Loop
 ---
 Microsoft Loop is designed for modern collaboration. Microsoft 365 Copilot in Loop takes that collaboration one step further. You can use Copilot to brainstorm new marketing strategies, plan campaigns, and develop content. Microsoft 365 Copilot in Loop can help you generate ideas for blog posts, articles, and other content types. You can input topics and desired content style, and Copilot can suggest prompts to help you get started. With Microsoft 365 Copilot in Loop, you can reduce content creation time by up to 50%.

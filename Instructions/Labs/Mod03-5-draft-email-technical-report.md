@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Draft an email based on a technical report using Microsoft 365 Copilot in Outlook'
+    module: 'Module 3 - Draft an email based on a technical report using Microsoft 365 Copilot in Outlook'
+---
 
 # Draft an email based on a technical report using Microsoft 365 Copilot in Outlook
 ---

@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Analyze a market trend spreadsheet using Microsoft 365 Copilot in Excel'
+    module: 'Module 4 - Analyze a market trend spreadsheet using Microsoft 365 Copilot in Excel'
+---
+
 # Analyze a market trend spreadsheet using Microsoft 365 Copilot in Excel
 ---
 Marketing professionals can use Microsoft 365 Copilot in Excel to analyze their data and gain insight into their business. Microsoft 365 Copilot in Excel is a powerful tool that can help Marketing professionals create, edit, understand, and visualize their data with ease.

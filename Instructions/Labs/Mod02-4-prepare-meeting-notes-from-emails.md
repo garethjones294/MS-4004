@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Prepare your meeting notes from emails using Microsoft 365 Business Chat'
+    module: 'Module 2 - Prepare your meeting notes from emails using Microsoft 365 Business Chat'
+---
 
 # Prepare your meeting notes from emails using Microsoft 365 Business Chat
 ---

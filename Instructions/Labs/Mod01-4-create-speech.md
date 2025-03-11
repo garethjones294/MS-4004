@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Create a speech using Microsoft 365 Copilot in Word'
+    module: 'Module 1 - Create a speech using Microsoft 365 Copilot in Word'
+---
 
 # Create a speech using Microsoft 365 Copilot in Word
 ---

@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Create a sales presentation using Microsoft 365 Copilot in PowerPoint'
+    module: 'Module 2 - Create a sales presentation using Microsoft 365 Copilot in PowerPoint'
+---
 
 # Create a sales presentation using Microsoft 365 Copilot in PowerPoint
 ---

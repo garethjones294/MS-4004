@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Conduct market analysis using Microsoft 365 Business Chat'
+    module: 'Module 3 - Conduct market analysis using Microsoft 365 Business Chat'
+---
+
 # Conduct market analysis using Microsoft 365 Business Chat
 ---
 This exercise utilizes the Business Chat. When you use Business Chat , it's important to provide context and resources when you craft your prompts. The quality of the response is a function of how the user crafts the request. By following these tips and choosing the right conversation style (either More Creative, More Balanced, or More Precise), you can have a great conversation with Business Chat  and get the most out of its capabilities.

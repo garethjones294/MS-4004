@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Update a technical report using Microsoft 365 Copilot in Word'
+    module: 'Module 3 - Update a technical report using Microsoft 365 Copilot in Word'
+---
+
 
 Update a technical report using Microsoft 365 Copilot in Word
 ---

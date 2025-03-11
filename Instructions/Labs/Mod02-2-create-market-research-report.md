@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Create a market research report using Microsoft 365 Copilot in Loop'
+    module: 'Module 2 - Create a market research report using Microsoft 365 Copilot in Loop'
+---
 
 # Create a market research report using Microsoft 365 Copilot in Loop
 ---

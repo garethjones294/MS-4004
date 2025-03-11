@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Compare supplier agreements using Microsoft 365 Copilot in Word'
+    module: 'Module 2 - Compare supplier agreements using Microsoft 365 Copilot in Word'
+---
 
 # Compare supplier agreements using Microsoft 365 Copilot in Word
 ---

@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Create a project plan presentation using Microsoft 365 Copilot in PowerPoint'
+    module: 'Module 3 - Create a project plan presentation using Microsoft 365 Copilot in PowerPoint'
+---
 
 # Create a project plan presentation using Microsoft 365 Copilot in PowerPoint
 ---

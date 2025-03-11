@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Create a slide presentation using Microsoft 365 Copilot in PowerPoint'
+    module: 'Module 1 - CCreate a slide presentation using Microsoft 365 Copilot in PowerPoint'
+---
 
 # Create a slide presentation using Microsoft 365 Copilot in PowerPoint
 ---

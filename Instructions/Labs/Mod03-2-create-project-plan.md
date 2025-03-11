@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Create a project plan using Microsoft 365 Business Chat'
+    module: 'Module 3 - Create a project plan using Microsoft 365 Business Chat'
+---
 
 Create a project plan using Microsoft 365 Business Chat
 ---

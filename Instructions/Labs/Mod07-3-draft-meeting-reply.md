@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Draft a meeting reply using Microsoft 365 Copilot in Outlook'
+    module: 'Module 7 - Draft a meeting reply using Microsoft 365 Copilot in Outlook'
+---
+
 # Draft a meeting reply using Microsoft 365 Copilot in Outlook
 ---
 Operations Managers conduct much of their daily work in Outlook. For example, Operations Managers use Outlook to help:

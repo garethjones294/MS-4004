@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Analyze resumes and make a recommendation using Microsoft 365 Copilot in Word'
+    module: 'Module 6 - Analyze resumes and make a recommendation using Microsoft 365 Copilot in Word'
+---
 # Analyze resumes and make a recommendation using Microsoft 365 Copilot in Word
 ---
 In the prior exercise, you learned how Microsoft 365 Copilot in Word can assist HR professionals in crafting a job description. In this exercise, you learn how it can automate the initial stages of the resume screening process. This functionality can help HR professionals quickly identify the most suitable candidates from large pools of applicants.

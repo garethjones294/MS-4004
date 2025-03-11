@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Enhance your social media marketing efforts'
+    module: 'Module 8 - Enhance your social media marketing efforts'
+---
+
 # Enhance your social media marketing efforts
 ---
 You're the owner of Liberty's Delightful Sinful Bakery & Cafe. With the local economy being a bit sluggish, you want to boost your social media marketing efforts to help increase sales. You want to use Microsoft 365 Copilot to help tailor your marketing strategy, with the goal of increasing your online engagements and customer reach. Your strategy consists of the following two-pronged approach:<br>

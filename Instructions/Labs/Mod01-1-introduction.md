@@ -1,7 +1,7 @@
 ---
 lab:
-    title: 'Module 1 - Introduction'
-    module: 'Empower your workforce using Copilot for Microsoft 365 : Executives Use Case'
+    title: 'Empower your workforce using Copilot for Microsoft 365 : Executives Use Case'
+    module: 'Module 1 - Introduction'
 ---
 
 # Lab Setup:

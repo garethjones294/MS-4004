@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Compare reporting results using Microsoft 365 Copilot in Word'
+    module: 'Module 7 - Compare reporting results using Microsoft 365 Copilot in Word'
+---
+
 # Compare reporting results using Microsoft 365 Copilot in Word
 ---
 One of the popular things about Microsoft 365 Copilot is that you can use its various copilots to access public data on the web. You're not limited to just Business Chat (https://Microsoft.com/Copilot). But while different copilots can access the web, the level of detail that each copilot provides may differ. For example, if you ask a question about a boiler versus furnace heating system in Business Chat , the results are far more detailed than if you ask the same question in Microsoft Loop.

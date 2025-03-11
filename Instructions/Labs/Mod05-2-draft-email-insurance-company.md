@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Draft an email to your insurance company using Microsoft 365 Copilot in Outlook'
+    module: 'Module 5 - Draft an email to your insurance company using Microsoft 365 Copilot in Outlook'
+---
+
 # Draft an email to your insurance company using Microsoft 365 Copilot in Outlook
 ---
 Microsoft 365 Copilot in Outlook is an AI-powered tool that can help Finance professionals save time and effort when drafting custom emails and email replies. With Copilot, you can quickly generate email drafts that Copilot tailors to your specific needs, without having to spend hours writing and editing them. In this training, you use Microsoft 365 Copilot in Outlook to draft a new email based on a series of user-supplied prompts.

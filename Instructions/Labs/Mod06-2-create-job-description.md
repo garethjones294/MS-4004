@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Create a job description using Microsoft 365 Copilot in Word'
+    module: 'Module 6 - Create a job description using Microsoft 365 Copilot in Word'
+---
+
 # Create a job description using Microsoft 365 Copilot in Word
 ---
 Microsoft 365 Copilot in Word is an AI-powered writing assistant that can help HR professionals streamline their work processes and improve their productivity. Copilot can assist HR professionals in various ways, including automated resume screening, job description assistance, efficient onboarding, employee feedback analysis, and more.

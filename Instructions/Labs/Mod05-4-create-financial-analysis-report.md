@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Create a financial analysis report using Microsoft 365 Copilot in Word'
+    module: 'Module 5 - Create a financial analysis report using Microsoft 365 Copilot in Word'
+---
+
 # Create a financial analysis report using Microsoft 365 Copilot in Word
 ---
 Microsoft 365 Copilot in Word can help Finance professionals create documents more efficiently. It can help them write content, research topics, and transform existing content into a document they can be proud of. Copilot can also save them time and thought by rewriting and editing documents.

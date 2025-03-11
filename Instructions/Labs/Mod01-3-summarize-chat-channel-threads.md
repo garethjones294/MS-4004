@@ -1,3 +1,10 @@
+---
+lab:
+    title: 'Summarize chat and channel threads using Microsoft 365 Copilot in Teams'
+    module: 'Module 1 - Summarize chat and channel threads using Microsoft 365 Copilot in Teams'
+---
+
+
 # Summarize chat and channel threads using Microsoft 365 Copilot in Teams
 ---
 Possessing proficiency in Copilot for Teams is a pivotal skill for executives seeking to streamline collaboration and drive actionable outcomes in their teams. In the fast-paced world of communication, sifting through chat and channel threads to distill key action items is a time-consuming task. Copilot for Teams revolutionizes this process by intelligently analyzing conversations and generating a concise list of action items.

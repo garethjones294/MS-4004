@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Create interview questions using Microsoft 365 Copilot in Loop'
+    module: 'Module 6 - Create interview questions using Microsoft 365 Copilot in Loop'
+---
+
 # Create interview questions using Microsoft 365 Copilot in Loop
 ---
 Microsoft Microsoft 365 Copilot in Loop is a powerful tool that can help teams collaborate more effectively and efficiently. With Microsoft 365 Copilot in Loop, you can create workspaces and pages, use intelligent search and templates to add relevant content, and share your work with others. Microsoft 365 Copilot in Loop can suggest ideas and help start projects, making it easier to get going when you find yourself stuck. It can draft texts, create tables, generate code for tech projects, and even answer questions quickly.
