@@ -6,6 +6,8 @@ layout: home
 
 # Content Directory
 
+Required labs files can be [DOWNLOADED HERE](https://github.com/garethjones294/MS-4004/raw/refs/heads/master/ResourceFiles/MS-4004_Files.zip)
+
 Hyperlinks to each of the lab exercises and demos are listed below.
 
 ## Labs
